@@ -1,4 +1,1 @@
-# One Month Rails
-
-This is the pinteresting sample application for
-[*One Month Rails*](http://mattangriffel.com)
+Pinteresting clone, live version available at: http://valentin-pinteresting.herokuapp.com/
